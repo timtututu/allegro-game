@@ -1,0 +1,1418 @@
+# depslib dependency file v1.0
+1624938796 source:c:\users\光庭\desktop\i2p1_final_project-master\charater.cpp
+	"charater.h"
+
+1624774672 c:\users\光庭\desktop\i2p1_final_project-master\charater.h
+	"global.h"
+	"bullet_fire.h"
+
+1624986769 c:\users\光庭\desktop\i2p1_final_project-master\global.h
+	<stdio.h>
+	"algif.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alplatf.h
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alandroidcfg.h
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alunix.h
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\keycodes.h
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\alcompat.h
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1624986871 source:c:\users\光庭\desktop\i2p1_final_project-master\gamewindow.cpp
+	"GameWindow.h"
+
+1624892046 c:\users\光庭\desktop\i2p1_final_project-master\gamewindow.h
+	"global.h"
+	"charater.h"
+	"scene.h"
+	"enemy.h"
+	"collider.h"
+	"scorecount.h"
+	"treasure.h"
+	"video_end_game.h"
+	"math.h"
+	"menuclick.h"
+	"bigboss.h"
+	"bigbosschara.h"
+	"bigbossbullet.h"
+
+1624892046 c:\users\光庭\desktop\i2p1_final_project-master\scene.h
+	"global.h"
+	"charater.h"
+	"bullet_fire.h"
+	"enemy.h"
+	"scorecount.h"
+	"treasure.h"
+	"video_end_game.h"
+	"menuclick.h"
+	"bigboss.h"
+	"bigbosschara.h"
+	"bigbossbullet.h"
+
+1624986788 source:c:\users\光庭\desktop\i2p1_final_project-master\global.cpp
+	"global.h"
+
+1621834427 source:c:\users\光庭\desktop\i2p1_final_project-master\main.cpp
+	"GameWindow.h"
+
+1624978716 source:c:\users\光庭\desktop\i2p1_final_project-master\scene.cpp
+	"scene.h"
+	"bullet_fire.h"
+	"collider.h"
+
+1624869899 source:c:\users\光庭\desktop\i2p1_final_project-master\enemy.cpp
+	"enemy.h"
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1623576972 source:c:\users\光庭\desktop\i2p1_final_project-master\bullet_fire.cpp
+	"bullet_fire.h"
+	<math.h>
+
+1623467710 c:\users\光庭\desktop\i2p1_final_project-master\bullet_fire.h
+	"global.h"
+
+1622468253 c:\users\光庭\desktop\i2p1_final_project-master\global.cpp
+	"global.h"
+
+1624777141 c:\users\光庭\desktop\i2p1_final_project-master\enemy.h
+	"global.h"
+	"bullet_fire.h"
+
+1624872937 c:\users\光庭\desktop\i2p1_final_project-master\collider.h
+	"global.h"
+
+1624956446 source:c:\users\光庭\desktop\i2p1_final_project-master\collider.cpp
+	<math.h>
+	<time.h>
+	"enemy.h"
+	"bullet_fire.h"
+	"collider.h"
+	<stdlib.h>
+	"treasure.h"
+	"charater.h"
+	"bigbossbullet.h"
+	"bigboss.h"
+
+1623662688 c:\users\光庭\desktop\i2p1_final_project-master\scorecount.h
+	"global.h"
+
+1624975225 source:c:\users\光庭\desktop\i2p1_final_project-master\scorecount.cpp
+	"scorecount.h"
+
+1623468654 c:\users\光庭\desktop\i2p1_final_project-master\treasure.h
+	"global.h"
+	"bullet_fire.h"
+
+1624863284 source:c:\users\光庭\desktop\i2p1_final_project-master\treasure.cpp
+	"treasure.h"
+	<time.h>
+	<math.h>
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_video.h
+	"allegro5/allegro5.h"
+	"allegro5/allegro_audio.h"
+
+1615199857 c:\users\光庭\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1623290447 c:\users\光庭\desktop\i2p1_final_project-master\video.h
+	"global.h"
+
+1624639560 source:c:\users\光庭\desktop\i2p1_final_project-master\video.cpp
+	"video.h"
+	"time.h"
+
+1624713606 c:\users\光庭\desktop\i2p1_final_project-master\menuclick.h
+	"global.h"
+
+1624709452 source:c:\users\光庭\desktop\i2p1_final_project-master\menuclick.c
+	"menuclick.h"
+
+1624975171 source:c:\users\光庭\desktop\i2p1_final_project-master\menuclick.cpp
+	"menuclick.h"
+
+1624975241 source:c:\users\光庭\desktop\i2p1_final_project-master\bigboss.cpp
+	"bigboss.h"
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1624860931 c:\users\光庭\desktop\i2p1_final_project-master\bigboss.h
+	"global.h"
+
+1624797700 c:\users\光庭\desktop\i2p1_final_project-master\bigbosschara.h
+	"global.h"
+
+1624864644 source:c:\users\光庭\desktop\i2p1_final_project-master\bigbosschara.cpp
+	"bigbosschara.h"
+
+1624897989 source:c:\users\光庭\desktop\i2p1_final_project-master\bigbossbullet.cpp
+	"bigbossbullet.h"
+	<math.h>
+
+1624882493 c:\users\光庭\desktop\i2p1_final_project-master\bigbossbullet.h
+	"global.h"
+
+1624887414 source:c:\users\光庭\desktop\i2p1_final_project-master\algif.cpp
+	"algif.h"
+	<allegro5/allegro_primitives.h>
+	<math.h>
+
+1624887429 c:\users\光庭\desktop\i2p1_final_project-master\algif.h
+	<allegro5/allegro5.h>
+
+1624887373 source:c:\users\光庭\desktop\i2p1_final_project-master\lzw.cpp
+	"algif.h"
+
+1624888340 source:c:\users\光庭\desktop\i2p1_final_project-master\bitmap.cpp
+	"algif.h"
+
+1625023696 source:c:\users\光庭\desktop\i2p1_final_project-master\gif.cpp
+	"algif.h"
+	<stdlib.h>
+	<string.h>
+
+1624945930 c:\users\光庭\desktop\i2p1_final_project-master\video_end_game.h
+	"global.h"
+
+1624986892 source:c:\users\光庭\desktop\i2p1_final_project-master\video_end_game.cpp
+	"video_end_game.h"
+	"time.h"
+
+1624887414 source:d:\i2p1_final_project-master\algif.cpp
+	"algif.h"
+	<allegro5/allegro_primitives.h>
+	<math.h>
+
+1624887429 d:\i2p1_final_project-master\algif.h
+	<allegro5/allegro5.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\alplatf.h
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\alandroidcfg.h
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\alunix.h
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\keycodes.h
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\alcompat.h
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1624975241 source:d:\i2p1_final_project-master\bigboss.cpp
+	"bigboss.h"
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1624860931 d:\i2p1_final_project-master\bigboss.h
+	"global.h"
+
+1624986769 d:\i2p1_final_project-master\global.h
+	<stdio.h>
+	"algif.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro_video.h
+	"allegro5/allegro5.h"
+	"allegro5/allegro_audio.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199857 d:\i2p1_final_project-master\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1624897989 source:d:\i2p1_final_project-master\bigbossbullet.cpp
+	"bigbossbullet.h"
+	<math.h>
+
+1624882493 d:\i2p1_final_project-master\bigbossbullet.h
+	"global.h"
+
+1624888340 source:d:\i2p1_final_project-master\bitmap.cpp
+	"algif.h"
+
+1623576972 source:d:\i2p1_final_project-master\bullet_fire.cpp
+	"bullet_fire.h"
+	<math.h>
+
+1623467710 d:\i2p1_final_project-master\bullet_fire.h
+	"global.h"
+
+1624938796 source:d:\i2p1_final_project-master\charater.cpp
+	"charater.h"
+
+1624774672 d:\i2p1_final_project-master\charater.h
+	"global.h"
+	"bullet_fire.h"
+
+1624956446 source:d:\i2p1_final_project-master\collider.cpp
+	<math.h>
+	<time.h>
+	"enemy.h"
+	"bullet_fire.h"
+	"collider.h"
+	<stdlib.h>
+	"treasure.h"
+	"charater.h"
+	"bigbossbullet.h"
+	"bigboss.h"
+
+1624777141 d:\i2p1_final_project-master\enemy.h
+	"global.h"
+	"bullet_fire.h"
+
+1624872937 d:\i2p1_final_project-master\collider.h
+	"global.h"
+
+1623468654 d:\i2p1_final_project-master\treasure.h
+	"global.h"
+	"bullet_fire.h"
+
+1624869899 source:d:\i2p1_final_project-master\enemy.cpp
+	"enemy.h"
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1641478144 source:d:\i2p1_final_project-master\gamewindow.cpp
+	"GameWindow.h"
+
+1624892046 d:\i2p1_final_project-master\gamewindow.h
+	"global.h"
+	"charater.h"
+	"scene.h"
+	"enemy.h"
+	"collider.h"
+	"scorecount.h"
+	"treasure.h"
+	"video_end_game.h"
+	"math.h"
+	"menuclick.h"
+	"bigboss.h"
+	"bigbosschara.h"
+	"bigbossbullet.h"
+
+1624892046 d:\i2p1_final_project-master\scene.h
+	"global.h"
+	"charater.h"
+	"bullet_fire.h"
+	"enemy.h"
+	"scorecount.h"
+	"treasure.h"
+	"video_end_game.h"
+	"menuclick.h"
+	"bigboss.h"
+	"bigbosschara.h"
+	"bigbossbullet.h"
+
+1623662688 d:\i2p1_final_project-master\scorecount.h
+	"global.h"
+
+1624945930 d:\i2p1_final_project-master\video_end_game.h
+	"global.h"
+
+1624713606 d:\i2p1_final_project-master\menuclick.h
+	"global.h"
+
+1624797700 d:\i2p1_final_project-master\bigbosschara.h
+	"global.h"
+
+1625023696 source:d:\i2p1_final_project-master\gif.cpp
+	"algif.h"
+	<stdlib.h>
+	<string.h>
+
+1624986788 source:d:\i2p1_final_project-master\global.cpp
+	"global.h"
+
+1624887373 source:d:\i2p1_final_project-master\lzw.cpp
+	"algif.h"
+
+1621834427 source:d:\i2p1_final_project-master\main.cpp
+	"GameWindow.h"
+
+1624975171 source:d:\i2p1_final_project-master\menuclick.cpp
+	"menuclick.h"
+
+1624978716 source:d:\i2p1_final_project-master\scene.cpp
+	"scene.h"
+	"bullet_fire.h"
+	"collider.h"
+
+1624975225 source:d:\i2p1_final_project-master\scorecount.cpp
+	"scorecount.h"
+
+1624863284 source:d:\i2p1_final_project-master\treasure.cpp
+	"treasure.h"
+	<time.h>
+	<math.h>
+
+1624986892 source:d:\i2p1_final_project-master\video_end_game.cpp
+	"video_end_game.h"
+	"time.h"
+
+1624887416 source:c:\users\user\desktop\i2p1_final_project-master\algif.cpp
+	"algif.h"
+	<allegro5/allegro_primitives.h>
+	<math.h>
+
+1624887430 c:\users\user\desktop\i2p1_final_project-master\algif.h
+	<allegro5/allegro5.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alplatf.h
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alandroidcfg.h
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alunix.h
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\keycodes.h
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\alcompat.h
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1624975242 source:c:\users\user\desktop\i2p1_final_project-master\bigboss.cpp
+	"bigboss.h"
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1624860932 c:\users\user\desktop\i2p1_final_project-master\bigboss.h
+	"global.h"
+
+1624986770 c:\users\user\desktop\i2p1_final_project-master\global.h
+	<stdio.h>
+	"algif.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_video.h
+	"allegro5/allegro5.h"
+	"allegro5/allegro_audio.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199858 c:\users\user\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1624897990 source:c:\users\user\desktop\i2p1_final_project-master\bigbossbullet.cpp
+	"bigbossbullet.h"
+	<math.h>
+
+1624882494 c:\users\user\desktop\i2p1_final_project-master\bigbossbullet.h
+	"global.h"
+
+1624888342 source:c:\users\user\desktop\i2p1_final_project-master\bitmap.cpp
+	"algif.h"
+
+1623576974 source:c:\users\user\desktop\i2p1_final_project-master\bullet_fire.cpp
+	"bullet_fire.h"
+	<math.h>
+
+1623467712 c:\users\user\desktop\i2p1_final_project-master\bullet_fire.h
+	"global.h"
+
+1624938798 source:c:\users\user\desktop\i2p1_final_project-master\charater.cpp
+	"charater.h"
+
+1624774674 c:\users\user\desktop\i2p1_final_project-master\charater.h
+	"global.h"
+	"bullet_fire.h"
+
+1624956448 source:c:\users\user\desktop\i2p1_final_project-master\collider.cpp
+	<math.h>
+	<time.h>
+	"enemy.h"
+	"bullet_fire.h"
+	"collider.h"
+	<stdlib.h>
+	"treasure.h"
+	"charater.h"
+	"bigbossbullet.h"
+	"bigboss.h"
+
+1624777142 c:\users\user\desktop\i2p1_final_project-master\enemy.h
+	"global.h"
+	"bullet_fire.h"
+
+1624872938 c:\users\user\desktop\i2p1_final_project-master\collider.h
+	"global.h"
+
+1623468656 c:\users\user\desktop\i2p1_final_project-master\treasure.h
+	"global.h"
+	"bullet_fire.h"
+
+1624869900 source:c:\users\user\desktop\i2p1_final_project-master\enemy.cpp
+	"enemy.h"
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1641478146 source:c:\users\user\desktop\i2p1_final_project-master\gamewindow.cpp
+	"GameWindow.h"
+
+1624892048 c:\users\user\desktop\i2p1_final_project-master\gamewindow.h
+	"global.h"
+	"charater.h"
+	"scene.h"
+	"enemy.h"
+	"collider.h"
+	"scorecount.h"
+	"treasure.h"
+	"video_end_game.h"
+	"math.h"
+	"menuclick.h"
+	"bigboss.h"
+	"bigbosschara.h"
+	"bigbossbullet.h"
+
+1624892048 c:\users\user\desktop\i2p1_final_project-master\scene.h
+	"global.h"
+	"charater.h"
+	"bullet_fire.h"
+	"enemy.h"
+	"scorecount.h"
+	"treasure.h"
+	"video_end_game.h"
+	"menuclick.h"
+	"bigboss.h"
+	"bigbosschara.h"
+	"bigbossbullet.h"
+
+1623662690 c:\users\user\desktop\i2p1_final_project-master\scorecount.h
+	"global.h"
+
+1624945932 c:\users\user\desktop\i2p1_final_project-master\video_end_game.h
+	"global.h"
+
+1624713608 c:\users\user\desktop\i2p1_final_project-master\menuclick.h
+	"global.h"
+
+1624797702 c:\users\user\desktop\i2p1_final_project-master\bigbosschara.h
+	"global.h"
+
+1625023698 source:c:\users\user\desktop\i2p1_final_project-master\gif.cpp
+	"algif.h"
+	<stdlib.h>
+	<string.h>
+
+1624986790 source:c:\users\user\desktop\i2p1_final_project-master\global.cpp
+	"global.h"
+
+1624887374 source:c:\users\user\desktop\i2p1_final_project-master\lzw.cpp
+	"algif.h"
+
+1621834428 source:c:\users\user\desktop\i2p1_final_project-master\main.cpp
+	"GameWindow.h"
+
+1624975172 source:c:\users\user\desktop\i2p1_final_project-master\menuclick.cpp
+	"menuclick.h"
+
+1624978718 source:c:\users\user\desktop\i2p1_final_project-master\scene.cpp
+	"scene.h"
+	"bullet_fire.h"
+	"collider.h"
+
+1624975226 source:c:\users\user\desktop\i2p1_final_project-master\scorecount.cpp
+	"scorecount.h"
+
+1624863286 source:c:\users\user\desktop\i2p1_final_project-master\treasure.cpp
+	"treasure.h"
+	<time.h>
+	<math.h>
+
+1624986894 source:c:\users\user\desktop\i2p1_final_project-master\video_end_game.cpp
+	"video_end_game.h"
+	"time.h"
+
