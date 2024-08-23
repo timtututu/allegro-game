@@ -13,3 +13,10 @@ Introduction to programming 1 final project
 - Allegro install(Windows):  https://github.com/yuan7122/I2P1_Final_project/blob/master/tutorial/Allegro_install.pdf
 - Allegro documentation: https://liballeg.org/a5docs/trunk/
 - For more information refer to [tutorial folder](https://github.com/yuan7122/I2P1_Final_project/tree/master/tutorial)
+
+## Demo Link
+- (https://youtu.be/4U4J9QPybo4)
+
+- (https://youtu.be/LUFvqpHg40w)
+
+- (https://youtu.be/GsxjvorBI28)
